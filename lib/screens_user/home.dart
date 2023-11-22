@@ -14,6 +14,7 @@ class HomeScreen extends StatelessWidget {
         body: Row(
           children: [
             Text("Recommented")
+            SizedBox()
           ],
         ),
         
